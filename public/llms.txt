@@ -7,41 +7,41 @@
 ## Pages
 
 ### Αρχική
-https://elite-digital-solutions-31f9ce61.zappy5.app
+https://example.com
 Ανακαλύψτε την Elite Digital Solutions: εξαλείφουμε το χάος με λύσεις AI αυτοματισμού, εφαρμογές low-code και συστήματα lead generation που αποδίδουν περιθώρια κέρδους έως 96%. Ξεκινήστε τον ψηφιακό μετασχηματισμό σας σήμερα.
 
 ### Butler.ai
-https://elite-digital-solutions-31f9ce61.zappy5.app/butler-ai
+https://example.com/butler-ai
 Μετατρέψτε στατικές πληροφορίες σε ζωντανές συνομιλίες με τον Butler.ai, τον πολύγλωσσο AI concierge για ξενοδοχεία και 19+ κλάδους. Αυξήστε τις κρατήσεις με έξυπνο αυτοματισμό τώρα.
 
 ### Eventagram
-https://elite-digital-solutions-31f9ce61.zappy5.app/eventagram
+https://example.com/eventagram
 Το Eventagram μεταμορφώνει εκθεσιακά περίπτερα και ιδιωτικές εκδηλώσεις σε αυτοματοποιημένες μηχανές δεδομένων και leads. Αποκτήστε πολύτιμες επαφές χωρίς κόπο με την πλατφόρμα μας.
 
 ### Αρχιτεκτονική Αυτοματισμού
-https://elite-digital-solutions-31f9ce61.zappy5.app/automation-architecture
+https://example.com/automation-architecture
 Η φιλοσοφία &#39;Frictionless Automation&#39; στην πράξη: χτίζουμε αρχιτεκτονικές αυτοματισμού που παραδίδουν ζωντανά δεδομένα στο dashboard σας, χωρίς ρίσκο hardware. Δείτε πώς λειτουργεί.
 
 ### Επικοινωνία
-https://elite-digital-solutions-31f9ce61.zappy5.app/contact
+https://example.com/contact
 Είστε έτοιμοι να εξαλείψετε το χάος; Επικοινωνήστε με τον Κωνσταντίνο Κεχαγιά και λάβετε ένα δωρεάν, επωνυμικό demo των λύσεων AI αυτοματισμού μας. Κλείστε το 15λεπτο ραντεβού σας.
 
 ### Ευχαριστούμε | Elite Digital Solutions
-https://elite-digital-solutions-31f9ce61.zappy5.app/thank-you
+https://example.com/thank-you
 Elite Digital Solutions - Ευχαριστούμε | Elite Digital Solutions
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://elite-digital-solutions-31f9ce61.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://elite-digital-solutions-31f9ce61.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://elite-digital-solutions-31f9ce61.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://elite-digital-solutions-31f9ce61.zappy5.app/contact
-- Endpoint: https://elite-digital-solutions-31f9ce61.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -90,6 +90,6 @@ Digital Agency / Technology / AI Automation
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://elite-digital-solutions-31f9ce61.zappy5.app/sitemap.xml
-- Robots: https://elite-digital-solutions-31f9ce61.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://elite-digital-solutions-31f9ce61.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
