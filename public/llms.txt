@@ -1,0 +1,95 @@
+# Elite Digital Solutions — Generative Engine Optimization Map
+
+> Elite Digital Solutions is a cutting-edge digital agency led by CEO Konstantinos Kechagias, specializing in low-code/no-code applications, AI automation, and frictionless lead generation systems that deliver extraordinary profit margins of 85–96% with zero hardware risk. The agency operates two flagship platforms: Butler.ai, a multilingual AI concierge that transforms static business information into live conversational experiences across 19+ verticals, and Eventagram, the ultimate event and exhibition engine that converts trade show booths and private celebrations into automated data and lead machines. Their unifying philosophy — 'Frictionless Automation' — is about eliminating chaos from traditional processes and delivering real-time, beautifully formatted live data to clients' dashboards. Their go-to-market approach is bold and data-driven: they mine decision-maker contacts via LinkedIn Sales Navigator, Apollo.io, and Hunter.io, build fully functional custom demos with the prospect's own branding, and launch targeted cold outreach sequences to secure 15-minute appointments.
+
+---
+
+## Pages
+
+### Αρχική
+https://elite-digital-solutions-31f9ce61.zappy5.app
+Ανακαλύψτε την Elite Digital Solutions: εξαλείφουμε το χάος με λύσεις AI αυτοματισμού, εφαρμογές low-code και συστήματα lead generation που αποδίδουν περιθώρια κέρδους έως 96%. Ξεκινήστε τον ψηφιακό μετασχηματισμό σας σήμερα.
+
+### Butler.ai
+https://elite-digital-solutions-31f9ce61.zappy5.app/butler-ai
+Μετατρέψτε στατικές πληροφορίες σε ζωντανές συνομιλίες με τον Butler.ai, τον πολύγλωσσο AI concierge για ξενοδοχεία και 19+ κλάδους. Αυξήστε τις κρατήσεις με έξυπνο αυτοματισμό τώρα.
+
+### Eventagram
+https://elite-digital-solutions-31f9ce61.zappy5.app/eventagram
+Το Eventagram μεταμορφώνει εκθεσιακά περίπτερα και ιδιωτικές εκδηλώσεις σε αυτοματοποιημένες μηχανές δεδομένων και leads. Αποκτήστε πολύτιμες επαφές χωρίς κόπο με την πλατφόρμα μας.
+
+### Αρχιτεκτονική Αυτοματισμού
+https://elite-digital-solutions-31f9ce61.zappy5.app/automation-architecture
+Η φιλοσοφία &#39;Frictionless Automation&#39; στην πράξη: χτίζουμε αρχιτεκτονικές αυτοματισμού που παραδίδουν ζωντανά δεδομένα στο dashboard σας, χωρίς ρίσκο hardware. Δείτε πώς λειτουργεί.
+
+### Επικοινωνία
+https://elite-digital-solutions-31f9ce61.zappy5.app/contact
+Είστε έτοιμοι να εξαλείψετε το χάος; Επικοινωνήστε με τον Κωνσταντίνο Κεχαγιά και λάβετε ένα δωρεάν, επωνυμικό demo των λύσεων AI αυτοματισμού μας. Κλείστε το 15λεπτο ραντεβού σας.
+
+### Ευχαριστούμε | Elite Digital Solutions
+https://elite-digital-solutions-31f9ce61.zappy5.app/thank-you
+Elite Digital Solutions - Ευχαριστούμε | Elite Digital Solutions
+
+## Legal & Policy
+
+### Privacy Policy
+https://elite-digital-solutions-31f9ce61.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://elite-digital-solutions-31f9ce61.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://elite-digital-solutions-31f9ce61.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://elite-digital-solutions-31f9ce61.zappy5.app/contact
+- Endpoint: https://elite-digital-solutions-31f9ce61.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Elite Digital Solutions
+Elite Digital Solutions is a cutting-edge digital agency led by CEO Konstantinos Kechagias, specializing in low-code/no-code applications, AI automation, and frictionless lead generation systems that deliver extraordinary profit margins of 85–96% with zero hardware risk. The agency operates two flagship platforms: Butler.ai, a multilingual AI concierge that transforms static business information into live conversational experiences across 19+ verticals, and Eventagram, the ultimate event and exhibition engine that converts trade show booths and private celebrations into automated data and lead machines. Their unifying philosophy — 'Frictionless Automation' — is about eliminating chaos from traditional processes and delivering real-time, beautifully formatted live data to clients' dashboards. Their go-to-market approach is bold and data-driven: they mine decision-maker contacts via LinkedIn Sales Navigator, Apollo.io, and Hunter.io, build fully functional custom demos with the prospect's own branding, and launch targeted cold outreach sequences to secure 15-minute appointments.
+
+## Services/Products
+- Butler.ai — AI-powered multilingual (50+ languages) Digital Concierge & B2B/B2C Lead Generation for hospitality, real estate, restaurants, yachting, clinics, and 19+ verticals
+- Eventagram — Low-code Event & Exhibition Engine for B2B trade shows (lead capture, QR code system, live Google Sheets dashboard) and B2C private events (RSVPs, seating, photo sharing, digital guestbook)
+- Low-code/No-code Application Development
+- AI Automation Systems
+- Cold Outreach Strategy with custom branded demos
+
+## Target Audience
+- B2B Decision Makers across 19 vertical markets including Hotels, Airbnb hosts, Real Estate, Beach Bars, Restaurants, Medical Tourism, Yachting, Showrooms, Clinics, Event Organizers, and Exhibition participants (e.g., ΔΕΘ)
+- Enterprise Tech Decision Makers
+- Hospitality Automation Seekers
+- Real Estate Innovators
+- Event Technology Adopters
+
+## Industry
+Digital Agency / Technology / AI Automation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://elite-digital-solutions-31f9ce61.zappy5.app/sitemap.xml
+- Robots: https://elite-digital-solutions-31f9ce61.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://elite-digital-solutions-31f9ce61.zappy5.app/llms-full.txt
